@@ -10,6 +10,8 @@ For me, the template contains HTML and Hammer for Mac tags that becomes a new bl
 
 ![](https://i.imgur.com/JYjghFt.gif)
 
-## How To Edit the Template
+## How to edit the template
 
-![](https://i.imgur.com/rZCu3JW.gif)
+<a href="https://youtu.be/ehwwzCQcUxA" target="_blank">
+<img src="https://i.imgur.com/FnZp6KP.png" />
+</a>

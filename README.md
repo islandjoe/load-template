@@ -9,3 +9,7 @@ For me, the template contains HTML and Hammer for Mac tags that becomes a new bl
 ![](https://i.imgur.com/uP5Ps08.png)
 
 ![](https://i.imgur.com/JYjghFt.gif)
+
+## How To Edit the Template
+
+![](https://i.imgur.com/rZCu3JW.gif)

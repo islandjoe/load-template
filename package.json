@@ -1,7 +1,7 @@
 {
     "name": "ark.new.blog.post",
-    "title": "New Blog Post",
-    "description": "Brackets extension that loads contents from a template into a currently open and empty file.",
+    "title": "Load Template",
+    "description": "Loads contents from a template into a currently open and empty file.",
     "homepage": "https://github.com/islandjoe/load-template",
     "version": "1.0.0",
     "author": "Arthur Kho",
